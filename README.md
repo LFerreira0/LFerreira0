@@ -1,6 +1,6 @@
 ## Oi, eu sou Lucas
 
-- 🔭 Sou desenvolvedor Front-end
+- 🔭 Desenvolvedor Front-end
 - 🌱 Atualmente estudando UX/UI
 
 <div align="center">
