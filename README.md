@@ -1,7 +1,7 @@
 ## Oi, eu sou Lucas
 
-- 🔭 Desenvolvedor Front-end
-- 🌱 Atualmente estudando UX/UI
+- 🔭 Desenvolvedor FullStack
+- 🌱 Atualmente estudando UX/UI e Back-end
 
 <div align="center">
   <a href="https://github.com/LFerreira0">
